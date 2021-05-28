@@ -26,9 +26,7 @@ public class Login {
 			retorno = true;
 			
 		}
-		
-		
-		
+					
 		return retorno;
 	}
 
